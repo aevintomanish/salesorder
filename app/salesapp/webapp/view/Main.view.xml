@@ -26,7 +26,7 @@
                 <Table items="{/Salesorders}">
             <columns>
                 <Column>
-                    <Label text="Sales Order Number" />
+                    <Label text="Sales Order Number cts" />
                 </Column>
                 <Column>
                     <Label text="Customer Name" />
